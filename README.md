@@ -7,3 +7,13 @@ Among others, this network is ranked first in the MRBrainS MICCAI Challenge http
 <br>
 <img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/HyperDenseNet_Module.png"/>
 <br>
+
+* Some qualitative results of the proposed HyperDenseNet compared to some baselines.
+<br>
+<img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/iSEG_Images.png"/>
+<br>
+
+* Analysis of features reuse in the case of two image modalities.
+<br>
+<img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/WeightsNorm_1_0.png"/>
+<br>
