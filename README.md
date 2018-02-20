@@ -5,5 +5,5 @@ Among others, this network is ranked first in the MRBrainS MICCAI Challenge http
 
 * A detail of a section of the proposed HyperDenseNet.
 <br>
-<img src="https://github.com/josedolz/HyperDenseNet/tree/master/Images/HyperDenseNet_Module.png"/>
+<img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/HyperDenseNet_Module.png"/>
 <br>
