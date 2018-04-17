@@ -10,7 +10,7 @@ If you find that this work has been useful for your research, please consider ci
 
 - Dolz J, Desrosiers C, Wang L, Yuang J, Shen D, Ben Ayed I. "[Isointense Infant Brain Segmentation with a Hyper-dense Connected Convolutional Neural Network"](https://pdfs.semanticscholar.org/32b9/b7c7b562bd60d6c2c3ce8c0c911a18f21654.pdf). IEEE International Symposium on Biomedical Imaging (ISBI), 616-620
 
-* A detail of a section of the proposed HyperDenseNet.
+A detail of a section of the proposed HyperDenseNet.
 <br>
 <img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/HyperDenseNet_Module.png"/>
 <br>
