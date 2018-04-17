@@ -16,20 +16,12 @@ If you find that this work has been useful for your research, please consider ci
 <br>
 
 
+## Content
+- [Requirements](#requirements)
+- [Running the code](#running the code)
+- [Training](#training)
+- [Some results](#results)
 
-
-THEANO_FLAGS='device=cuda1,floatX=float32,lib.cnmem=1' python ./networkTraining.py ./HyperDenseNet_Config.ini
-
-
-* Some qualitative results of the proposed HyperDenseNet compared to some baselines.
-<br>
-<img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/iSEG_Images.png"/>
-<br>
-
-* Analysis of features reuse in the case of two image modalities.
-<br>
-<img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/WeightsNorm_1_0.png"/>
-<br>
 
 
 ## Requirements
@@ -89,3 +81,15 @@ where X denotes the last (or desired) epoch in which the model was saved.
   * April,17th. 2018
     * HyperDenseNet processes multi-modal data in different branches which are densely connected (so far only two-modalities).
     
+
+## Results
+
+* Some qualitative results of the proposed HyperDenseNet compared to some baselines.
+<br>
+<img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/iSEG_Images.png"/>
+<br>
+
+* Analysis of features reuse in the case of two image modalities.
+<br>
+<img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/WeightsNorm_1_0.png"/>
+<br>
