@@ -18,8 +18,9 @@ If you find that this work has been useful for your research, please consider ci
 
 ## Content
 - [Requirements](#requirements)
-- [Running the code](#running the code)
 - [Training](#training)
+- [Testing](#testing)
+- [Versions](#versions)
 - [Some results](#results)
 
 
@@ -79,7 +80,7 @@ where X denotes the last (or desired) epoch in which the model was saved.
 ### Versions
 - Version 1.0. 
   * April,17th. 2018
-    * HyperDenseNet processes multi-modal data in different branches which are densely connected (so far only two-modalities).
+    * HyperDenseNet processes multi-modal data in different branches which are densely connected (**so far only two-modalities**).
     
 
 ## Results
