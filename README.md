@@ -85,6 +85,9 @@ where X denotes the last (or desired) epoch in which the model was saved.
 
 ## Results
 
+These images depicts some results included in the HyperDenseNet papers.
+
+
 * Some qualitative results of the proposed HyperDenseNet compared to some baselines.
 <br>
 <img src="https://github.com/josedolz/HyperDenseNet/blob/master/Images/iSEG_Images.png"/>
