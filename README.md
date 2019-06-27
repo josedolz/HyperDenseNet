@@ -6,7 +6,7 @@ Among others, this network is ranked first in the MRBrainS MICCAI Challenge http
 
 If you find that this work has been useful for your research, please consider citing the following works:
 
-- Dolz J, Gopinath K, Yuan J, Lombaert H, Desrosiers C, Ben Ayed I. "[HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation."](https://www.ncbi.nlm.nih.gov/pubmed/30387726) IEEE TMI. 2018 Oct 30.[Arxiv](https://arxiv.org/pdf/1804.02967.pdf)
+- Dolz J, Gopinath K, Yuan J, Lombaert H, Desrosiers C, Ben Ayed I. "[HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation."](https://www.ncbi.nlm.nih.gov/pubmed/30387726) IEEE TMI. 2018 Oct 30.[Link](https://ieeexplore.ieee.org/abstract/document/8515234)
 
 - Dolz J, Desrosiers C, Wang L, Yuang J, Shen D, Ben Ayed I. "[Isointense Infant Brain Segmentation with a Hyper-dense Connected Convolutional Neural Network"](https://pdfs.semanticscholar.org/32b9/b7c7b562bd60d6c2c3ce8c0c911a18f21654.pdf). IEEE International Symposium on Biomedical Imaging (ISBI), 616-620
 
